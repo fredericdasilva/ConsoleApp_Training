@@ -36,7 +36,7 @@ namespace ConsoleApp_Training
             }
 
 
-            return tempList;
+            return list;
 
         }
 
