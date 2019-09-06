@@ -46,6 +46,10 @@ namespace ConsoleApp_Training
             var sortedlist3 = listInitial.OrderBy(i=>i);
             stopwatch1.Stop();
             Console.WriteLine(String.Format("Linq Order by  Sort ==> {0} ticks", stopwatch1.ElapsedTicks));
+
+            
+
+
         }
 
         static int[] SelectionSort(int[] list)

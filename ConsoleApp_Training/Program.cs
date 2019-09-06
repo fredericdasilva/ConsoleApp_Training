@@ -34,11 +34,32 @@ namespace ConsoleApp_Training
             //ClassDelegate classDelegate1 = new ClassDelegate();
 
             //Sort
-            Sort.Call();
+            //Sort.Call();
 
+            //Exo MDF_2018
+            string[] arg = {"17",
+"130",
+"-391",
+"243",
+"122",
+"-1",
+"144",
+"349",
+"307",
+"-49",
+"159",
+"-114",
+"354",
+"-118",
+"-89",
+"-136",
+"29",
+"392",
+"-114"};
+            Mdf2018.MainMdf2018(arg);
         }
 
-      
+
 
     }
 }
