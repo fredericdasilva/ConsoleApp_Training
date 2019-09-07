@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp_Training
 {
-    public static class Mdf2018
+    public static class Mdf2018_Interets
     {
         public static void MainMdf2018(string[] args)
         {
