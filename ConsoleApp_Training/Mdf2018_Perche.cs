@@ -72,7 +72,6 @@ namespace ConsoleApp_Training
             else if (res[0].cnt < res[1].cnt)
                 result = res[0].key;
 
-
             /* Le nom du vainqueur du concours ou la chaine KO s'il y a égalité parfaite entre plusieurs vainqueurs potentiels. */
             Console.WriteLine(result);
 
